@@ -1,0 +1,33 @@
+*   588705a (HEAD -> master, origin/master, origin/HEAD) Merge pull request #13 from IllegalHunter/8-co
+unt-tasks-per-category
+|\
+| * c8ba420 (origin/8-count-tasks-per-category, 8-count-tasks-per-category) Implementing newest changes
+* |   cfa9f1f Merge pull request #12 from IllegalHunter/7-highest-unfinished-task
+|\ \
+| * | 3eb0115 (origin/7-highest-unfinished-task, 7-highest-unfinished-task) saving again after unsucces
+sful first attempt to merge
+* | |   8c016ac Merge pull request #11 from IllegalHunter/3-find-all-completed-tasks
+|\ \ \
+| * | | 963041c (origin/3-find-all-completed-tasks, 3-find-all-completed-tasks) Implemented method to f
+ind all completed tasks
+* | | |   41d22f8 gerge branch '7-count-tasks-per-category'
+|\ \ \ \
+| |_|/ /
+|/| | /
+| | |/
+| |/|
+| * | 65ede4c Implemented method to count tasks per category
+| |/
+* / 20962cb Implemented method to find all unfinished tasks with high priority
+|/
+*   67271d8 Merge branch 'master' of https://github.com/IllegalHunter/SI_2025_lab1_233126 git status
+|\
+| * 42f49de Create README.md
+* | 8becb57 Readme upload
+|/
+*   4f22cdb reset na branch
+|\
+| * b54c390 Update README
+* | 1197e31 Add starter code
+|/
+* 10aa930 Initial commit
