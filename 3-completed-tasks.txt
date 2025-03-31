@@ -1,1 +1,0 @@
-return tasks.stream().filter(Task::isCompleted).collect(Collectors.toList());
